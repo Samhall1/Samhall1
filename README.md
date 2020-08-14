@@ -3,7 +3,7 @@
 <p> <em>Apprentice Junior Front-End developer  </em><p>
 <p><em> Currently studying at CodeNation</em></p>
 
-### <img src="" width="40"> A little more about me...
+### <img src="https://media.giphy.com/media/URwJbvkEVbDjTcqead/giphy.gif" width="40"> A little more about me...
 ```JAVASCRIPT
 const sam = {
 	code: [JavaScript, HTML, CSS],
