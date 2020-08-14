@@ -7,7 +7,7 @@
 ```JAVASCRIPT
 const sam = {
 	code: [JavaScript, HTML, CSS],
-	tools: [React, Node],
+	tools: [React, Node]
 }
 
 ```
