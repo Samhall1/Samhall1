@@ -7,7 +7,9 @@
 ```JAVASCRIPT
 const sam = {
 	code: [JavaScript, HTML, CSS],
-	tools: [React, Node]
+	tools: [React, Node, Express]
 }
+
+let currentlyLearning = [TypeScript, Jest, Cyprus, TailwindCSS];
 
 ```
