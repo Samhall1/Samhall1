@@ -10,6 +10,6 @@ const sam = {
 	tools: [React, Node]
 }
 
-let currentlyLearning = [TypeScript, Jest, Cyprus, TailwindCSS];
+let currentlyLearning = [TypeScript, Jest, Cypress, TailwindCSS];
 
 ```
